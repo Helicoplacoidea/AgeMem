@@ -117,9 +117,7 @@ AgeMem/
 │       └── README.md
 ├── AgeMem_code_agentscope/
 ├── docs/
-│   ├── AgeMem_README.md
-│   ├── AgeMem_README_EN.md
-│   └── DIR_STRUCTURE.md
+│   └── AgeMem_README.md
 └── pyproject.toml
 ```
 
