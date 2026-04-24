@@ -272,7 +272,7 @@ Before running:
 
 ## 9. Standalone AgentScope Example
 
-`AgeMem_code_agentscope/` provides a standalone demo that does not depend on Trinity-RFT training pipeline.
+`AgeMem_code_agentscope/` provides a standalone demo that does not depend on the Trinity-RFT training pipeline.
 
 ```bash
 pip install -r AgeMem_code_agentscope/requirements.txt
